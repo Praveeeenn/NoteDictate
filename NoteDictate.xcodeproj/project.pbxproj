@@ -20,6 +20,7 @@
 		AC543C272415593300BF7368 /* InterfaceController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC543C262415593300BF7368 /* InterfaceController.swift */; };
 		AC543C292415593300BF7368 /* ExtensionDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC543C282415593300BF7368 /* ExtensionDelegate.swift */; };
 		AC543C2B2415593300BF7368 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AC543C2A2415593300BF7368 /* Assets.xcassets */; };
+		AC543C3B24155F5200BF7368 /* NoteSelectRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC543C3A24155F5200BF7368 /* NoteSelectRow.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -82,6 +83,7 @@
 		AC543C282415593300BF7368 /* ExtensionDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtensionDelegate.swift; sourceTree = "<group>"; };
 		AC543C2A2415593300BF7368 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AC543C2C2415593300BF7368 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AC543C3A24155F5200BF7368 /* NoteSelectRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NoteSelectRow.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -150,6 +152,7 @@
 			isa = PBXGroup;
 			children = (
 				AC543C262415593300BF7368 /* InterfaceController.swift */,
+				AC543C3A24155F5200BF7368 /* NoteSelectRow.swift */,
 				AC543C282415593300BF7368 /* ExtensionDelegate.swift */,
 				AC543C2A2415593300BF7368 /* Assets.xcassets */,
 				AC543C2C2415593300BF7368 /* Info.plist */,
@@ -299,6 +302,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AC543C3B24155F5200BF7368 /* NoteSelectRow.swift in Sources */,
 				AC543C292415593300BF7368 /* ExtensionDelegate.swift in Sources */,
 				AC543C272415593300BF7368 /* InterfaceController.swift in Sources */,
 			);
