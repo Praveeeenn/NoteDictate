@@ -8,6 +8,6 @@
 
 import WatchKit
 
-class NoteSelectRow: NSObject {
+final class NoteSelectRow: NSObject {
     @IBOutlet weak var textLabel: WKInterfaceLabel!
 }
